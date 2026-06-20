@@ -284,7 +284,7 @@ from unitree_webrtc_connect import (
 
 ## Acknowledgements
 
-A big thank you to TheRoboVerse community! Visit us at [TheRoboVerse](https://theroboverse.com) for more information and support.
+A big thank you to TheRoboVerse community! Visit us at [TheRoboVerse](https://robolegion.com) for more information and support.
 
 Special thanks to the [tfoldi WebRTC project](https://github.com/tfoldi/go2-webrtc) and [abizovnuralem](https://github.com/abizovnuralem) for adding LiDAR support, [MrRobotoW](https://github.com/MrRobotoW) for the LiDAR visualization example, and [Nico](https://github.com/oulianov) for the aiortc monkey patch.
 
