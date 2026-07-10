@@ -1,3 +1,4 @@
+This project is based on unitree_webrtc_connectand extends it for mapping, navigation, and autonomous patrol.
 # Unitree WebRTC Connect
 
 Python WebRTC driver for Unitree Go2 and G1 robots. Provides high-level control through the same WebRTC protocol used by the Unitree Go/Unitree Explore mobile apps — no jailbreak or firmware modification required.
